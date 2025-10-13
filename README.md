@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @v44heat
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ... Information Technology 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email machariavincent50@gmail.com  tel no. 0743668970
 
 <!---
