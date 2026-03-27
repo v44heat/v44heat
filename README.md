@@ -46,15 +46,15 @@ Currently expanding my knowledge in **Machine Learning, Data Analysis, and scala
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v44heat\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v44heat\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=onedark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=v44heat\&theme=onedark)
 
 ---
 
