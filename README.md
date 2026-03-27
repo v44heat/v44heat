@@ -24,38 +24,12 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=v44heat&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v44heat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=v44heat&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=v44heat&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/v44heat/v44heat/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -76,13 +50,7 @@
 
 ---
 
-# 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=v44heat&label=Profile%20Views&color=blueviolet&style=flat"/>
-</p>
-
----
 
 # ⭐ Motto
 
