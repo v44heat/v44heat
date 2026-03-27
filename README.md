@@ -1,68 +1,89 @@
-# 👋 Hi, I'm Vincy
+# <h1 align="center">Hi 👋, I'm Vincy</h1>
 
-🚀 **IT Student | Web Developer | AI Engineer | Data Analyst | Machine Learning Enthusiast**
-
-I enjoy building systems that solve real-world problems — from **web platforms** to **AI-powered tools**.
-Currently expanding my knowledge in **Machine Learning, Data Analysis, and scalable backend systems.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Engineer;Machine+Learning+Enthusiast;Data+Analyst;Building+Cool+Things+With+Code" />
+</p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-* 💻 Passionate about **Software Development & Artificial Intelligence**
-* 📊 Skilled in **Data Analysis and Visualization**
+* 🎓 IT Student passionate about **technology & problem solving**
+* 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 🌐 Building **modern web applications**
-* 🤖 Exploring **Machine Learning models and AI systems**
-* 📚 Always learning new technologies and improving problem-solving skills
+* 📊 Working with **Data Analysis and visualization**
+* 🚀 Always learning new tools and frameworks
 
 ---
 
-## ⚡ Tech Stack
+# 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 📊 Data & AI
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge\&logo=python\&logoColor=white)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge\&logo=openai\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,php,html,css,react,postgresql,tensorflow" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v44heat\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=v44heat&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v44heat\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=v44heat\&theme=onedark)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v44heat&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌍 Connect With Me
+# 🔥 GitHub Streak
 
-📱 **WhatsApp:** 0743668970
-📷 **Instagram:** https://www.instagram.com/_vincy44th_/
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=v44heat&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-⭐ *"Code. Learn. Build. Improve. Repeat."*
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=v44heat&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/v44heat/v44heat/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.instagram.com/_vincy44th_/">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://wa.me/254743668970">
+<img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=v44heat&label=Profile%20Views&color=blueviolet&style=flat"/>
+</p>
+
+---
+
+# ⭐ Motto
+
+> *Code. Learn. Build. Improve. Repeat.*
