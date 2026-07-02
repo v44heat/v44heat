@@ -42,10 +42,6 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 
-<a href="https://wa.me/254743668970">
-<img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
-</a>
-
 </p>
 
 ---
