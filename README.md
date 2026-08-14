@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VINCY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20%2F%20ML%20Explorer%20%7C%20Kenya&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=V44Heat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20%2F%20ML%20Explorer%20%7C%20Kenya&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+don't+break.;Turning+coffee+into+code.;Ship+it.+Then+ship+it+better." />
 
@@ -17,7 +17,7 @@
 > Philosophy: no shortcuts, no placeholders — clean or nothing
 ```
 
-🎓 IT Student passionate about technology & problem solving
+🎓 IT Student passionate about technology & problem solving <br>
 🤖 Exploring Artificial Intelligence & Machine Learning
 🌐 Building modern, production-grade web applications
 📊 Working with data analysis and visualization
