@@ -14,14 +14,14 @@
 > IT Student — Technical University of Kenya
 > Independent Developer — full-stack & frontend builds
 > Currently deep in AI/ML, data viz, and modern web
-> Philosophy: no shortcuts, no placeholders — clean or nothing
+> Philosophy: Clean or nothing
 ```
 
 🎓 IT Student passionate about technology & problem solving <br>
-🤖 Exploring Artificial Intelligence & Machine Learning
-🌐 Building modern, production-grade web applications
-📊 Working with data analysis and visualization
-🚀 Always leveling up — new tools, new stacks, no ceiling
+🤖 Exploring Artificial Intelligence & Machine Learning <br>
+🌐 Building modern, production-grade web applications <br>
+📊 Working with data analysis and visualization <br>
+🚀 Always leveling up — new tools, new stacks, no ceiling <br>
 
 ---
 
@@ -83,7 +83,7 @@
 
 ---
 
-### 🔥 The Streak — Consistency is the Flex
+### 🔥 The Streak — Consistency beats Intesity
 
 <div align="center">
 
