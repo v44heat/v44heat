@@ -9,6 +9,14 @@
 ---
 
 ### ⚡ About Me
+
+```
+> IT Student — Technical University of Kenya
+> Independent Developer — full-stack & frontend builds
+> Currently deep in AI/ML, data viz, and modern web
+> Philosophy: no shortcuts, no placeholders — clean or nothing
+```
+
 🎓 IT Student passionate about technology & problem solving
 🤖 Exploring Artificial Intelligence & Machine Learning
 🌐 Building modern, production-grade web applications
@@ -79,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=v44heat&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=v44heat&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" />
 
 </div>
 
@@ -89,7 +97,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=v44heat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=v44heat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&custom_title=V44heat's%20GitHub%20Stats" />
 <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=v44heat&theme=radical&hide_border=true&layout=compact&bg_color=0D1117" />
 
 </div>
